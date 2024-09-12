@@ -66,3 +66,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Acknowledgments**
 Special thanks to Cognifyz Technologies for the opportunity to work on this project and for providing valuable guidance and support throughout the internship.
+
+
+
+[Data Analysis Internship Task .pdf](https://github.com/user-attachments/files/16983440/Data.Analysis.Internship.Task.pdf)
+[Data.csv](https://github.com/user-attachments/files/16983446/Data.csv)
+[Level 1.csv](https://github.com/user-attachments/files/16983453/Level.1.csv)
+![output_26_0](https://github.com/user-attachments/assets/39a843ce-b6bd-4688-9c3d-9ddd31ccb688)
+[Level 1.pdf](https://github.com/user-attachments/files/16983790/Level.1.pdf)
+[Level 2.csv](https://github.com/user-attachments/files/16983794/Level.2.csv)
+[Level 2.pdf](https://github.com/user-attachments/files/16983798/Level.2.pdf)
+![output_6_0](https://github.com/user-attachments/assets/bb010332-2295-4d75-b923-6b997dd5611a)
+[Level 3.csv](https://github.com/user-attachments/files/16983800/Level.3.csv)
+[Level 3.pdf](https://github.com/user-attachments/files/16983803/Level.3.pdf)
